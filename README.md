@@ -20,6 +20,11 @@ Die Umsetzung erfolgt mit [Twilio](https://www.twilio.com/), einem Cloud-Kommuni
 - Webhook-ready (kompatibel mit Twilio-Konsole)
 
 ---
+## 📞 Twilio Lösung über
+
+- Twilio Studio Flow [Twilio](https://www.twilio.com/docs/studio/)
+
+---
 
 ## 💡 Warum ist das Projekt sinnvoll?
 
