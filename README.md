@@ -20,9 +20,11 @@ Die Umsetzung erfolgt mit [Twilio](https://www.twilio.com/), einem Cloud-Kommuni
 - Webhook-ready (kompatibel mit Twilio-Konsole)
 
 ---
-## 📞 Twilio Lösung über
 
-- Twilio Studio Flow [Twilio](https://www.twilio.com/docs/studio/)
+## 📞 Twilio Dokumentation
+
+- [Twilio Studio Flow](https://www.twilio.com/docs/studio/)
+- ![Ein Beispielbild](images/my_image.png)
 
 ---
 
