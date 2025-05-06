@@ -34,6 +34,7 @@ Mit diesem Projekt können Verantwortliche schnell und zuverlässig einen festge
 
 - Python 3.x
 - Twilio-Konto mit aktivierter Telefonnummer
+- Server mit Port 8830 (Firewall die eingestellt ist)
 
 ### Installation
 
