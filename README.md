@@ -26,6 +26,19 @@ Die Umsetzung erfolgt mit [Twilio](https://www.twilio.com/), einem Cloud-Kommuni
 - [Twilio Studio Flow](https://www.twilio.com/docs/studio/)
 - ![Ein Beispielbild](images/my_image.png)
 
+
+Here's our logo (hover to see the title text):
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+
+
 ---
 
 ## 💡 Warum ist das Projekt sinnvoll?
