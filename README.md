@@ -5,8 +5,8 @@ Notrufsystem für kleine und mittelständische Unternehmen
 
 ## 🔔 Projektbeschreibung
 
-Dieses Projekt ermöglicht es, automatisiert Notrufe per Anruf und SMS an definierte Kontaktpersonen zu senden – ausgelöst durch einen eingehenden Anruf bei Twilio oder eine API-Anfrage.  
-Gedacht ist das Skript als einfacher, kostengünstiger Alarmserver für kleine bis mittelständische Unternehmen, Vereine oder andere Organisationen, die im Ernstfall schnell informieren müssen (z. B. Evakuierung, technische Störungen, Notfallereignisse).
+Ein schlanker, kostengünstiger Alarmserver für kleine und mittelständische Unternehmen, Vereine oder Organisationen.
+Ermöglicht automatisierte Notrufe per Anruf und SMS an vordefinierte Kontakte – ausgelöst durch einen Anruf bei Twilio oder eine API-Anfrage. Ideal für schnelle Benachrichtigungen bei Notfällen, Störungen oder Evakuierungen – ohne teure Infrastruktur oder komplexe Systeme.
 
 Die Umsetzung erfolgt mit [Twilio](https://www.twilio.com/), einem Cloud-Kommunikationsdienstleister, über den sowohl Sprachanrufe als auch SMS realisiert werden.
 
@@ -20,6 +20,7 @@ Die Umsetzung erfolgt mit [Twilio](https://www.twilio.com/), einem Cloud-Kommuni
 - Trennung von Kontakten (Textdatei) und Code (Best Practice)
 - Webhook-ready (kompatibel mit Twilio-Konsole)
 
+
 ---
 
 ## 📞 Twilio Dokumentation
@@ -28,24 +29,13 @@ Die Umsetzung erfolgt mit [Twilio](https://www.twilio.com/), einem Cloud-Kommuni
 - ![Ein Beispielbild](images/my_image.png)
 
 
-Here's our logo (hover to see the title text):
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: Twilio_Flow_Sample.png "Logo Title Text 2"
-
-
-
 ---
 
-## 💡 Warum ist das Projekt sinnvoll?
+## 🗃️ Twilio Flow (Sample)
 
-In Firmen, Vereinen oder kleinen Organisationen fehlt oft ein einfaches, zentral steuerbares Notrufsystem.  
-Mit diesem Projekt können Verantwortliche schnell und zuverlässig einen festgelegten Personenkreis alarmieren – ohne teure Infrastruktur oder komplexe Systeme.
+[logo]: Twilio_Flow_Sample.png "Twilio Flow Sample"
+
+
 
 ---
 
