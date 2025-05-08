@@ -23,7 +23,7 @@ Die Umsetzung erfolgt mit [Twilio](https://www.twilio.com/), einem Cloud-Kommuni
 
 ---
 
-## 🗃️ Twilio Flow (Sample)
+## 📌 Twilio Flow (Sample)
 
 ![Logo](Twilio_Flow_Sample.png) "Twilio Flow Sample"
 
