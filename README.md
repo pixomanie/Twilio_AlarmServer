@@ -14,19 +14,11 @@ Die Umsetzung erfolgt mit [Twilio](https://www.twilio.com/), einem Cloud-Kommuni
 
 ## ✅ Funktionen
 
-- Reaktion auf eingehende Anrufe (automatischer Alarmversand)
+- Reaktion auf eingehende Anrufe bei Twilio (automatischer Alarmversand)
 - Manuelles Auslösen des Alarms per API (HTTP POST)
+- API meldet wieder an an Twilio
 - Versand von Alarmmeldungen per Anruf und SMS an mehrere Personen gleichzeitig
-- Trennung von Kontakten (Textdatei) und Code (Best Practice)
-- Webhook-ready (kompatibel mit Twilio-Konsole)
-
-
----
-
-## 📞 Twilio Dokumentation
-
-- [Twilio Studio Flow](https://www.twilio.com/docs/studio/)
-- ![Ein Beispielbild](images/my_image.png)
+- Trennung von Kontakten (in einer Textdatei) und Code (Best Practice)
 
 
 ---
@@ -45,11 +37,18 @@ Die Umsetzung erfolgt mit [Twilio](https://www.twilio.com/), einem Cloud-Kommuni
 
 - Python 3.x
 - Twilio-Konto mit aktivierter Telefonnummer
-- Server mit Port 8830 (Firewall die eingestellt ist)
+- Server mit Port 8830 (Firewallreglen beachten)
 
-### Installation
+### 🖥️ Installation
 
 ```bash
 git clone https://github.com/Twilio_AlarmServer/twilio-alarmserver.git
 cd twilio-alarmserver
 pip install -r requirements.txt
+
+
+---
+
+## 📞 Twilio Dokumentation
+
+- [Twilio Studio Flow](https://www.twilio.com/docs/studio/)
