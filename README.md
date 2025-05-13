@@ -1,6 +1,5 @@
 ## 📞 Twilio AlarmServer / Alarm Server
-🇩🇪 Notrufsystem für kleine und mittelständische Unternehmen 
-🇬🇧 Emergency Alert System for SMEs
+🇩🇪 Notrufsystem für kleine und mittelständische Unternehmen | 🇬🇧 Emergency Alert System for SMEs
 
 ---
 
