@@ -43,7 +43,7 @@ def test_call():
             data={
                 'To': number,
                 'From': TWILIO_NUMBER,  # Replace with your Twilio phone number
-                'Parameters': '{"campaign":"muttertag2025"}'  # Optional: Parameter für Studio
+                'Parameters': '{"ALARM_TEST":"ALARM"}'  # Optional: Parameter für Studio
             }
         )
         if response.status_code == 201:
