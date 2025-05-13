@@ -1,53 +1,63 @@
-# Twilio_AlarmServer
+# 📞 Twilio AlarmServer / Alarm Server
 
-# 📞 Twilio Alarmserver 
-Notrufsystem für kleine und mittelständische Unternehmen
-
-## 🔔 Projektbeschreibung
-
-Ein schlanker, kostengünstiger Alarmserver für kleine und mittelständische Unternehmen, Vereine oder Organisationen.
-Ermöglicht automatisierte Notrufe per Anruf und SMS an vordefinierte Kontakte – ausgelöst durch einen Anruf bei Twilio oder eine API-Anfrage. Ideal für schnelle Benachrichtigungen bei Notfällen, Störungen oder Evakuierungen – ohne teure Infrastruktur oder komplexe Systeme.
-
-Die Umsetzung erfolgt mit [Twilio](https://www.twilio.com/), einem Cloud-Kommunikationsdienstleister, über den sowohl Sprachanrufe als auch SMS realisiert werden.
+## 🇩🇪 Notrufsystem für kleine und mittelständische Unternehmen | 🇬🇧 Emergency Alert System for SMEs
 
 ---
 
-## ✅ Funktionen
+## 🔔 Projektbeschreibung (DE)
+
+Ein schlanker, kostengünstiger Alarmserver für kleine und mittelständische Unternehmen, Vereine oder Organisationen.  
+Ermöglicht automatisierte Notrufe per Anruf und SMS an vordefinierte Kontakte – ausgelöst durch einen Anruf bei Twilio oder eine API-Anfrage.
+
+---
+
+## 🔔 Project Description (EN)
+
+A lightweight, cost-effective alarm server for small and medium-sized businesses, clubs, or organizations.  
+Supports automated emergency notifications via call and SMS to predefined contacts – triggered by a Twilio call or an API request.
+
+---
+
+## ✅ Funktionen (DE)
 
 - Reaktion auf eingehende Anrufe bei Twilio (automatischer Alarmversand)
-- Manuelles Auslösen des Alarms per API (HTTP POST)
-- API meldet wieder an an Twilio
-- Versand von Alarmmeldungen per Anruf und SMS an mehrere Personen gleichzeitig
-- Trennung von Kontakten (in einer Textdatei) und Code (Best Practice)
-
+- Manuelles Auslösen per API (HTTP POST)
+- API antwortet zurück an Twilio
+- Alarm per Anruf und SMS an mehrere Empfänger gleichzeitig
+- Trennung von Kontakten und Code (Best Practice)
 
 ---
 
-## 📌 Twilio Flow (Sample)
+## ✅ Features (EN)
+
+- Responds to incoming calls on Twilio (automated alert sending)
+- Manual trigger via API (HTTP POST)
+- API replies back to Twilio
+- Alerts via call and SMS to multiple recipients simultaneously
+- Separation of contacts (in text file) and logic (best practice)
+
+---
+
+## 📌 Twilio Flow Sample
 
 ![Logo](Twilio_Flow_Sample.png) "Twilio Flow Sample"
 
-
-
 ---
 
-## 🚀 Projekt starten
+## 🚀 Installation & Setup
 
-### Voraussetzungen
+### 🇩🇪 Voraussetzungen / 🇬🇧 Requirements
 
-- Python 3.x
-- Twilio-Konto mit aktivierter Telefonnummer
-- Server mit Port 8830 (Firewallreglen beachten)
+- Python 3.x  
+- Twilio-Konto mit aktivierter Telefonnummer / Twilio account with active number  
+- Server mit offenem Port 8830 / Server with open port 8830
 
 ### 🖥️ Installation
 
 ```bash
 git clone https://github.com/Twilio_AlarmServer/twilio-alarmserver.git
-cd twilio-alarmserver
+cd Twilio-AlarmServer
 pip install -r requirements.txt
-```
-
----
 
 ## 📞 Twilio Dokumentation
 
