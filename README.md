@@ -51,13 +51,13 @@ Supports automated emergency notifications via call and SMS to predefined contac
 - Twilio-Konto mit aktivierter Telefonnummer / Twilio account with active number  
 - Server mit offenem Port 8830 / Server with open port 8830
 
-
+---
 
 ## 📞 Twilio Dokumentation
 
 - [Twilio Studio Flow](https://www.twilio.com/docs/studio/)
 
-
+---
 
 ### 🖥️ Installation
 
