@@ -8,7 +8,7 @@
 Ein schlanker, kostengünstiger Alarmserver für kleine und mittelständische Unternehmen, Vereine oder Organisationen.  
 Ermöglicht automatisierte Notrufe per Anruf und SMS an vordefinierte Kontakte – ausgelöst durch einen Anruf bei Twilio oder eine API-Anfrage.
 
----
+
 
 ## 🔔 Project Description (🇬🇧)
 
@@ -25,7 +25,7 @@ Supports automated emergency notifications via call and SMS to predefined contac
 - Alarm per Anruf und SMS an mehrere Empfänger gleichzeitig
 - Trennung von Kontakten und Code (Best Practice)
 
----
+
 
 ## ✅ Features (🇬🇧)
 
