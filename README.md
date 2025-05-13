@@ -39,7 +39,7 @@ Supports automated emergency notifications via call and SMS to predefined contac
 
 ## 📌 Twilio Flow Sample
 
-![Logo](Twilio_Flow_Sample.png) "Twilio Flow Sample"
+![Logo](Twilio_Flow_Sample.png)
 
 ---
 
