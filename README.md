@@ -1,24 +1,25 @@
 # 📞 Twilio AlarmServer / Alarm Server
 
-## 🇩🇪 Notrufsystem für kleine und mittelständische Unternehmen | 🇬🇧 Emergency Alert System for SMEs
+## 🇩🇪 Notrufsystem für kleine und mittelständische Unternehmen 
+## 🇬🇧 Emergency Alert System for SMEs
 
 ---
 
-## 🔔 Projektbeschreibung (DE)
+## 🔔 Projektbeschreibung (🇩🇪)
 
 Ein schlanker, kostengünstiger Alarmserver für kleine und mittelständische Unternehmen, Vereine oder Organisationen.  
 Ermöglicht automatisierte Notrufe per Anruf und SMS an vordefinierte Kontakte – ausgelöst durch einen Anruf bei Twilio oder eine API-Anfrage.
 
 ---
 
-## 🔔 Project Description (EN)
+## 🔔 Project Description (🇬🇧)
 
 A lightweight, cost-effective alarm server for small and medium-sized businesses, clubs, or organizations.  
 Supports automated emergency notifications via call and SMS to predefined contacts – triggered by a Twilio call or an API request.
 
 ---
 
-## ✅ Funktionen (DE)
+## ✅ Funktionen (🇩🇪)
 
 - Reaktion auf eingehende Anrufe bei Twilio (automatischer Alarmversand)
 - Manuelles Auslösen per API (HTTP POST)
@@ -28,7 +29,7 @@ Supports automated emergency notifications via call and SMS to predefined contac
 
 ---
 
-## ✅ Features (EN)
+## ✅ Features (🇬🇧)
 
 - Responds to incoming calls on Twilio (automated alert sending)
 - Manual trigger via API (HTTP POST)
